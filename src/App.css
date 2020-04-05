@@ -1,0 +1,15 @@
+.app{
+  text-align: center;
+}
+.title{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+.red{
+  color: red;
+}
+.app img{
+  height: 300px;
+  width: 350px;
+}
